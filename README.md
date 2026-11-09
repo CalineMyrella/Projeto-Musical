@@ -23,7 +23,7 @@ O módulo mais robusto do sistema, dividido entre o cadastro de novas faixas e a
 * **Cadastro de Música:** Formulário detalhado para adicionar uma "Nova Música". Inclui seleção do Artista, Título, Álbum, Gênero, e campos especiais para o Link do YouTube, Capa do Álbum e Letra da Música.
 * **Biblioteca Musical:** Criação de uma barra de busca livre e filtros por Artista ou Gênero. A listagem exibe todos os detalhes da faixa (Capa, Título, Álbum, etc.) e inclui um botão de ação especial vermelho (▶ Assistir) integrado à tabela.
 
-## 5. Identidade Visual e UI/UX (`styles.css`)
+## 5. Identidade Visual (`styles.css`)
 A última etapa conectou todas as páginas HTML, transformando a estrutura bruta numa aplicação de aparência profissional.
 * **O que foi desenvolvido:** Definição de uma paleta de cores moderna (fundo cinza claro, botões coloridos para guiar as ações), bordas arredondadas (*border-radius*), e efeitos visuais (*hover*) para tornar a navegação fluida e agradável.
 
