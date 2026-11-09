@@ -12,7 +12,7 @@ O projeto foi dividido em 5 etapas principais. Cada arquivo foi cuidadosamente d
 Foi a primeira etapa do projeto, servindo como a porta de entrada segura do sistema.
 * **O que foi desenvolvido:** Formulário de login com campos para Usuário e Senha, lógica visual de feedback (como a caixa verde de alerta ao sair), e indicação de credenciais de teste para facilitar a avaliação.
 
-![Tela de Login](image_1d09fd.png)
+![Tela de Login](login.png)
 
 ## 2. Painel Principal / Dashboard (`index.html`)
 Após o login, o utilizador é redirecionado para este menu de navegação, que funciona como o "coração" do sistema.
